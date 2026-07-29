@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الفواتير</string>
+    <string name="invoices">الفواتير</string>
+    <string name="clients">العملاء</string>
+    <string name="products">المنتجات</string>
+    <string name="reports">التقارير</string>
+    <string name="add_invoice">إضافة فاتورة</string>
+    <string name="add_client">إضافة عميل</string>
+    <string name="add_product">إضافة منتج</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="total">المجموع</string>
+    <string name="subtotal">المجموع الفرعي</string>
+    <string name="tax">الضريبة</string>
+    <string name="discount">الخصم</string>
+    <string name="quantity">الكمية</string>
+    <string name="price">السعر</string>
+    <string name="description">الوصف</string>
+    <string name="date">التاريخ</string>
+    <string name="due_date">تاريخ الاستحقاق</string>
+    <string name="notes">ملاحظات</string>
+    <string name="paid">مدفوعة</string>
+    <string name="pending">معلقة</string>
+    <string name="overdue">متأخرة</string>
+</resources>
